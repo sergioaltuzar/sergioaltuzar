@@ -1,10 +1,10 @@
 Hi 👋 My name is Sergio Altuzar
 ===============================
 
-Full Stack Developer Jr
+FrontEnd Developer
 -----------------------
 
-Software Developer Full Stack with experience in web technologies => (HTML, CSS, JavaScript, PHP, Node Js, MySql, Python, etc.) Recently graduated from LaunchX (Developer Web Full Stack) by Microsoft, to update and improve my knowledge . I am looking for a company that allows me to take my first steps in a professional manner and guided me to continue learning and developing in what I am so passionate about, technology. I love undertaking, collaborating and building solutions giving the maximum, always committed and dedicated to my work.
+Software Developer Full Stack with experience in web technologies => (HTML, CSS, JavaScript, Raect, Vite, Node Js, Next , Mongo Db MySql) Recently graduated from LaunchX (Developer Web Full Stack) by Microsoft, to update and improve my knowledge . I am so passionate about technology. I love undertaking, collaborating and building solutions giving the maximum, always committed and dedicated to my work.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [sergio.altuzar@gmail.com](mailto:sergio.altuzar@gmail.com)
