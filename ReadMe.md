@@ -1,10 +1,10 @@
 Hi 👋 My name is Sergio Altuzar
 ===============================
 
-FrontEnd Developer
+iOS Software Engineer 
 -----------------------
 
-Software Developer Full Stack with experience in web technologies => (HTML, CSS, JavaScript, Raect, Vite, Node Js, Next , Mongo Db MySql) Recently graduated from LaunchX (Developer Web Full Stack) by Microsoft, to update and improve my knowledge . I am so passionate about technology. I love undertaking, collaborating and building solutions giving the maximum, always committed and dedicated to my work.
+I am an iOS Software Engineer with 2 years of experience in app development. I have hands-on experience with a wide range of technologies including Swift, Xcode, Swift UI, UI Kit, Core Data, JSON, REST API, SQL, Cocoa Pods, Firebase, Alamofire, and design patterns such as MVP, MVVM, and Viper. I am also proficient in Git, Azure, and Scrum. I am always seeking new challenges and opportunities to grow as a professional and contribute to innovative projects. I am eager to connect with companies that value my skills and experience to deliver efficient and high-quality solutions.
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [sergio.altuzar@gmail.com](mailto:sergio.altuzar@gmail.com)
