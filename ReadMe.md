@@ -15,4 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioaltuzar&show_icons=true&locale=en&layout=compact" alt="sergioaltuzar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergioaltuzar&show_icons=true&locale=en" alt="sergioaltuzar" /></p>
-![image](https://user-images.githubusercontent.com/77743897/219959101-905e9c92-9aae-47d6-abf8-c80ef99481d0.png)
+![image](https://user-images.githubusercontent.com/77743897/219959133-dbb3dcde-fc79-4276-9d09-291451200656.png)
