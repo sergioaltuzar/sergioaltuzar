@@ -8,7 +8,7 @@ I am an iOS Software Engineer with 2 years of experience in app development. I h
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [sergio.altuzar@gmail.com](mailto:sergio.altuzar@gmail.com)
-* 🧠  I'm learning Node Js, Express, Prisma, Jest.
+* 🧠  I'm learning SwiftUi, Viper, Unit Test, Json.
 
 <a href="https://www.twitter.com/sergio_altuzar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sergio_altuzar?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
